@@ -1,5 +1,5 @@
 
-#cd /Users/mandy/MYTH_Local/playtext
+#cd /Users/mandy/MYTH_Local/learning/playtext
 # source venv311/bin/activate
 # python hand_tracking.py
 
